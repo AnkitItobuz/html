@@ -1,0 +1,35 @@
+.container {
+  border: 3px solid red;
+  display: flex;
+  gap: 30px;
+}
+
+
+.first {
+  background-image:url(/images/download.jfif);
+  height: 550px;
+  width: 550px;
+  background-repeat: repeat-x;
+  background-size: auto;
+}
+
+.second {
+  background-image: url(/images/download\ \(1\).jfif);
+  height: 550px;
+  width: 250px;
+  background-size: contain;
+}
+
+.third {
+  background-image: url(/images/download\ \(2\).jfif);
+  height: 550px;
+  width: 550px;
+  background-size: cover;
+}
+
+.fourth {
+  background-image: url(/images/download\ \(1\).jfif);
+  height: 550px;
+  width: 250px;
+  background-size: cover;
+}

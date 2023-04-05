@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav{
+  display: flex;
+}
+.head-img{
+  width: 149px;
+  height: 60px;
+  margin-top: 66px;
+  margin-left: 127px;
+}
+.ecllipse-img{
+  width: 11px;
+  height: 11px;
+  margin-top: 75px;
+  
+}
+.home{
+  width: 72px;
+  height: 36px;
+  margin-top: 78px;
+  margin-left: 558px;
+}
+.project{
+  width: 72px;
+  height: 36px;
+  margin-top: 78px;
+  
+}
+.blog{
+  width: 72px;
+  height: 36px;
+  margin-top: 78px;
+}
+.pricing{
+  width: 72px;
+  height: 36px;
+  margin-top: 78px;
+}
+.contact{
+  width: 72px;
+  height: 36px;
+  margin-top: 78px;
+}
